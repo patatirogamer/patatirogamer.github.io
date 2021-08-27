@@ -1,0 +1,10 @@
+{
+    "clientVersion": 10,
+    "launcherVersion": 50,
+    "launcherSign": "UgqHrdX2G0JrdFjvBWVSZ4U8AI0=",
+    "client_url": "http://unisamp-mobile.ru/mobile/apk/client.apk",
+    "launcher_url": "http://unisamp-mobile.ru/mobile/launcher/launcher.apk",
+    "data_full_url": "http://unisamp-mobile.ru/mobile/cache/full_list.json",
+    "data_lite_url": "http://unisamp-mobile.ru/mobile/cache/lite_list.json",
+    "data_samp_url": "http://unisamp-mobile.ru/mobile/cache/samp_list.json"
+}
